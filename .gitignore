@@ -1,0 +1,28 @@
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Pytest
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# Test credentials / private test data
+test_data/testdata.xlsx
+
+# Generated screenshots
+screenshots/
+
+# Generated HTML reports
+reports/
+
+# Environment/config secrets
+.env
+.env.*
+
+# IDE settings
+.vscode/
